@@ -1,0 +1,63 @@
+body {
+    background: #fffbee;
+}
+
+.container-fluid#navbar-container {
+    padding: 36px 0;
+}
+
+#dropdown-disable {
+    color: gray;
+}
+
+.container-fluid#compra {
+    padding: 0 80px 0 80px;
+}
+
+.card#produto {
+    border: 2px solid #fffbee;
+    border-radius: 10px;
+}
+
+.card-img-top#compra {
+    margin-top: 12px;
+    border-radius: 10px;
+}
+
+.main-title#compra-title, .main-title#about, .main-title#team, .main-title#contact{
+    font-size: 60px;
+    border-bottom: 3px solid #212529;
+}
+
+#home {
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+               1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+.btn#btn-home {
+    font-size: 20px;
+    border: 1px solid;
+    box-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+.main-title#home {
+    font-size: 50px;
+}
+
+.title#home {
+    font-size: 40px;
+}
+
+.img-fluid#about, #about-mvv, #team-img {
+    border: 5px solid #212529;
+    border-radius: 10px;
+}
+
+#about-mvv {
+    width: 355px;
+}
+
+.d-heigth {
+    max-height: 88.4vh;
+}
